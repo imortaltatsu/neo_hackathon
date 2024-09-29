@@ -46,4 +46,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Thank you for being part of our NFT revolution on Neo X Blockchain! ps!
+Thank you for being part of our NFT revolution on Neo X Blockchain!
